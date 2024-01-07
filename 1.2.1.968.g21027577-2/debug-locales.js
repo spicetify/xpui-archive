@@ -1,0 +1,2 @@
+"use strict";(("undefined"!=typeof self?self:global).webpackChunkclient_web=("undefined"!=typeof self?self:global).webpackChunkclient_web||[]).push([[6658],{41537:(e,l,f)=>{f.r(l),f.d(l,{default:()=>n});const n=f(72735).R}}]);
+//# sourceMappingURL=debug-locales.js.map

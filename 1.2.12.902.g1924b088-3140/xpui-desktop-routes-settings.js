@@ -1,0 +1,2 @@
+"use strict";(("undefined"!=typeof self?self:global).webpackChunkclient_web=("undefined"!=typeof self?self:global).webpackChunkclient_web||[]).push([[6008],{17001:(e,l,n)=>{n.r(l),n.d(l,{default:()=>a});var s=n(59496),f=n(4637);const t=(0,s.lazy)((()=>Promise.resolve().then(n.bind(n,13367)))),a=()=>(0,f.jsx)(t,{})}}]);
+//# sourceMappingURL=xpui-desktop-routes-settings.js.map

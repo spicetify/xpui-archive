@@ -1,0 +1,1 @@
+"use strict";(("undefined"!=typeof self?self:global).webpackChunkclient_web=("undefined"!=typeof self?self:global).webpackChunkclient_web||[]).push([[6025],{96244:(e,l,f)=>{f.r(l),f.d(l,{default:()=>n.Z});var n=f(8089)}}]);

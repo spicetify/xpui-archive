@@ -1,0 +1,2 @@
+"use strict";(("undefined"!=typeof self?self:global).webpackChunkclient_web=("undefined"!=typeof self?self:global).webpackChunkclient_web||[]).push([[9244],{49244:(e,t,l)=>{l.r(t),l.d(t,{CtaButton:()=>o,default:()=>c});var n=l(8340),a=l(11732),i=l(2488);const o=({text:e,onClick:t,clickUrl:l})=>(0,i.jsx)(a.Link,{"data-testid":"ad-cta-button",to:l,onClick:e=>{e.stopPropagation(),t()},children:(0,i.jsx)(n.g,{"aria-label":e,colorSet:"invertedLight",size:"small",children:e})}),c=o}}]);
+//# sourceMappingURL=9244.js.map

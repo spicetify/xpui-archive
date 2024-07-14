@@ -1,0 +1,1 @@
+.weV_qxFz4gF5sPotO10y{display:grid;gap:8px 24px;grid-template-columns:2fr 1fr}.GMGmbx5FRBd6DOVvzSgk,.yNitN64xoLNhzJlkfzOh{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.yNitN64xoLNhzJlkfzOh{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;position:relative}
